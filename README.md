@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/274747116_130056532929469_9123236790407682283_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=pj5-8Fm4mIQAX8nhALL&_nc_ht=scontent.fhph1-2.fna&oh=00_AT-L66g6h4lxHBouqxUkvHYN3Gi5vf3D-3fUFg8HECtDag&oe=62386C3D"/></p>
+<p align="center"><img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/274747116_130056532929469_9123236790407682283_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=j6e3tjkNQI0AX_npaKz&_nc_ht=scontent.fhph1-2.fna&oh=00_AT8Cj-kTsMibdZBePwJatMQB9huY0VnNC__XdgZzo8FMGQ&oe=623E5AFD"/></p>
 
 <h1 align="center">Hi 👋, I'm Truong Ann </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
