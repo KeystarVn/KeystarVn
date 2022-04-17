@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://scontent.fhph1-2.fna.fbcdn.net/v/t39.30808-6/274747116_130056532929469_9123236790407682283_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=j6e3tjkNQI0AX_npaKz&_nc_ht=scontent.fhph1-2.fna&oh=00_AT8Cj-kTsMibdZBePwJatMQB9huY0VnNC__XdgZzo8FMGQ&oe=623E5AFD"/></p>
+<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d778ebb-8d0d-428f-bbc4-17dc0f9bdaeb/df3rgmh-0b64275d-cb64-4f9a-8c32-038976f1ad45.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkNzc4ZWJiLThkMGQtNDI4Zi1iYmM0LTE3ZGMwZjliZGFlYlwvZGYzcmdtaC0wYjY0Mjc1ZC1jYjY0LTRmOWEtOGMzMi0wMzg5NzZmMWFkNDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QSTKGkax4sjFtGf0GLYKBaUIh3PfaG0MyDypg2u0A7Y"/></p>
 
 <h1 align="center">Hi 👋, I'm Truong Ann </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
