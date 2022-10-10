@@ -13,7 +13,7 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.facebook.com/Anndeptraibodoi/" alt="Facebook">
+  <a href="https://www.facebook.com/KeystarVn.140/" alt="Facebook">
     <img src="https://img.icons8.com/clouds/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/KeystarVn" alt="Github">
@@ -30,27 +30,27 @@
 
 ## Skills:
 <p align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeystarVn&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeystarVn&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeystarVn&theme=2077&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeystarVn&theme=2077)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeystarVn)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
 <img src="https://img.icons8.com/doodle/48/000000/soundcloud--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-lightroom--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  
-
-
 </p>
 
-<table style="width:100%;">
+
+<p align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeystarVn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeystarVn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeystarVn&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeystarVn&theme=2077)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeystarVn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
+<table style="width:100%; height:500px">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keystarvn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="keystarvn" width="100%"/>
