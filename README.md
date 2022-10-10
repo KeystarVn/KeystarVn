@@ -8,7 +8,7 @@
 
 - ✍ I'm a student of: [USTH - Vietnam France University](https://usth.edu.vn).
 
-- 🌱 I’m currently learning **Front-end.**
+- 🌱 I’m currently learning **Cypher Security.**
 
 
 ## 📫 How to reach me:
