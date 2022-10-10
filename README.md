@@ -31,6 +31,14 @@
 ## Skills:
 <p align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeystarVn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KeystarVn&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KeystarVn&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeystarVn&theme=2077)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeystarVn)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
 <img src="https://img.icons8.com/doodle/48/000000/soundcloud--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-lightroom--v1.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-premiere-pro--v1.png"/>
