@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" />
 
-- ✍ I'm a student of: [THPT Tong Van Tran](http://thpt-tongvantran.namdinh.edu.vn/).
+- ✍ I'm a student of: [USTH ](https://usth.edu.vn).
 
 - 🌱 I’m currently learning **Front-end.**
 
