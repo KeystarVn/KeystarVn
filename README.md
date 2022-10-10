@@ -1,7 +1,7 @@
+![Git](https://user-images.githubusercontent.com/101726335/194794235-448961fd-9973-4121-846c-8652bbf36f44.gif)
 
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d778ebb-8d0d-428f-bbc4-17dc0f9bdaeb/df3rgmh-0b64275d-cb64-4f9a-8c32-038976f1ad45.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkNzc4ZWJiLThkMGQtNDI4Zi1iYmM0LTE3ZGMwZjliZGFlYlwvZGYzcmdtaC0wYjY0Mjc1ZC1jYjY0LTRmOWEtOGMzMi0wMzg5NzZmMWFkNDUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QSTKGkax4sjFtGf0GLYKBaUIh3PfaG0MyDypg2u0A7Y"/></p>
-
-<h1 align="center">Hi 👋, I'm Truong Ann </h1>
+<p>
+<h1 align="center">Hi!, I'm Truong Ann </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" />
@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/clouds/48/000000/youtube-play.png"/>
   </a>
   
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDXXnRSCwqBHFNDltsBNXGlwXjLPhWhHsTpnpMVfwHpphFQhMWFvhqtLXQtkgVcPQKhptdK" alt="Email">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrkzTfZVVvRsGDrGghNnfSkLnjBFLJfjVNWpqNWjTGqGDNZmzJgJJxDLZHncFmFFNMrCFQ" alt="Email">
     <img src="https://img.icons8.com/clouds/48/000000/gmail-new.png"/>
   </a>
 </p>
