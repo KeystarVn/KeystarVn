@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/clouds/48/000000/youtube-play.png"/>
   </a>
   
-  <a href="https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSKkkPqJvPdMjNmshJdPcgJSKpkVvRzCgSHHHmVcLCXcsSlnWLTZnrWQbsTxzMhZnmQCBJWP" alt="Email">
+  <a href="[https://mail.google.com/mail/u/3/#inbox?compose=GTvVlcSKkkPqJvPdMjNmshJdPcgJSKpkVvRzCgSHHHmVcLCXcsSlnWLTZnrWQbsTxzMhZnmQCBJWP](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDshJJVfqfVdGQvDJkkXSwCJsZcGcdKfXqXwpwlBMlhSdbBNGfzmMdNrBPGXDtxmVPLljw)" alt="Email">
     <img src="https://img.icons8.com/clouds/48/000000/gmail-new.png"/>
   </a>
 </p>
